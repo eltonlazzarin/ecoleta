@@ -9,15 +9,15 @@
 <p align="center">Recoleta is a fullstack application that helps people save the planet in a very simple way, just recycling</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/lotofacil-app">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/ecoleta">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/lotofacil-app">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/ecoleta">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/lotofacil-app">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/ecoleta">
 
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/lotofacil-app">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/ecoleta">
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/lotofacil-app">
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/ecoleta">
 </p>
 
 <p align="center">
@@ -63,9 +63,9 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/lotofacil-app.git
+$ git clone https://github.com/eltonlazzarin/ecoleta.git
 
-$ cd lotofacil-app
+$ cd ecoleta
 
 $ cd backend
 ```
@@ -89,9 +89,9 @@ $ yarn dev
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/lotofacil-app.git
+$ git clone https://github.com/eltonlazzarin/ecoleta.git
 
-$ cd lotofacil-app
+$ cd ecoleta
 
 $ cd backend
 
@@ -109,7 +109,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Backend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/lotofacil-app/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
 
@@ -132,11 +132,11 @@ Technologies that I used to develop this frontend app
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/lotofacil-app.git
+$ git clone https://github.com/eltonlazzarin/ecoleta.git
 
-$ cd lotofacil-app
+$ cd ecoleta
 
-$ cd frontend
+$ cd web
 ```
 
 **Follow the steps below**
@@ -155,11 +155,11 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/lotofacil-app.git
+$ git clone https://github.com/eltonlazzarin/ecoleta.git
 
-$ cd lotofacil-app
+$ cd ecoleta
 
-$ cd frontend
+$ cd web
 
 # Create a branch with your feature
 $ git checkout -b your-feature
