@@ -159,7 +159,7 @@ $ cd web
 # Install the dependencies
 $ npm i
 
-# Run the API
+# Run the web app
 $ npm start
 ```
 
@@ -232,11 +232,17 @@ $ cd mobile
 # Install the dependencies
 $ yarn
 
-# Run the API
+# Run the mobile app
 $ yarn start
 ```
 
-## 🤔 How to contribute frontend
+## Install the app on a physical phone
+
+1. Go to your app store, look for the app called <strong>Expo</strong>, and install it on your device.
+
+2. With the app installed, open it and click on <strong>Scan QR Code</strong>, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
+
+## 🤔 How to contribute mobile
 
 **Follow the steps below**
 
