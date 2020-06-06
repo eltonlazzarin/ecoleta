@@ -36,6 +36,14 @@
   <a href="#-frontend-license">Frontend License</a>
 </p>
 
+<p align="center">
+  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-mobile-technologies">Mobile Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-mobile-getting-started">Mobile Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute-mobile">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-frontend-license">Frontend License</a>
+</p>
+
 ## 👨🏻‍💻 About the project
 
 <p>This project shows all possible combinations of numbers drawn in Lotofacil and was built in Nodejs and ReactJS</p>
