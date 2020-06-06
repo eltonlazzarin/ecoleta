@@ -47,7 +47,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/githubimageheader.png" />
+	<img alt="GitHub Image Header" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/githubimageheader.png" />
 </h1>
 
 <p>Ecoleta is something like a marketplace, being a connection between a company or entities that collect organic and inorganic waste and people aware of the proper disposal of this waste.
