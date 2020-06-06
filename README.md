@@ -41,7 +41,7 @@
   <a href="#-mobile-technologies">Mobile Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile-getting-started">Mobile Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute-mobile">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile-license">Frontend License</a>
+  <a href="#-frontend-license">Mobile License</a>
 </p>
 
 ## 👨🏻‍💻 About the project
