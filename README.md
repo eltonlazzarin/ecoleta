@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/lotofacil-app/blob/master/frontend/src/assets/lottery.png" height="150px" width="150px" />
+	<img alt="Logo" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/githubimageheader.png" />
 </h1>
 
 <h3 align="center">
