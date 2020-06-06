@@ -46,6 +46,10 @@
 
 ## 👨🏻‍💻 About the project
 
+<h1 align="center">
+	<img alt="Logo" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/githubimageheader.png" />
+</h1>
+
 <p>Ecoleta is something like a marketplace, being a connection between a company or entities that collect organic and inorganic waste and people aware of the proper disposal of this waste.
 
 This is a project developed during the #NextLevelWeek. An online programming event given by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on mobile using the Expo.</p>
