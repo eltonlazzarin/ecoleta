@@ -6,7 +6,7 @@
   Ecoleta is a Fullstack Application Built in Nodejs, ReactJS and React Native
 </h3>
 
-<p align="center">Recoleta is a fullstack application that helps people save the planet in a very simple way, just recycling</p>
+<p align="center">Ecoleta is a fullstack application that helps people save the planet in a very simple way, just recycling</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/ecoleta">
@@ -46,7 +46,9 @@
 
 ## 👨🏻‍💻 About the project
 
-<p>This project shows all possible combinations of numbers drawn in Lotofacil and was built in Nodejs and ReactJS</p>
+<p>Ecoleta is something like a marketplace, being a connection between a company or entities that collect organic and inorganic waste and people aware of the proper disposal of this waste.
+
+This is a project developed during the #NextLevelWeek. An online programming event given by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on mobile using the Expo.</p>
 
 ## 🚀 Backend Technologies
 
