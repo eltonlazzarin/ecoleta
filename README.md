@@ -45,10 +45,14 @@
 Technologies that I used to develop this api
 
 - [Node.js](https://nodejs.org/en)
+- [TypeScript](https://www.typescriptlang.org)
 - [Celebrate](https://github.com/arb/celebrate)
 - [Cors](https://github.com/expressjs/cors)
 - [Express](https://github.com/expressjs/express)
-- [VS Code](https://code.visualstudio.com)
+- [Knex](https://github.com/knex/knex)
+- [Multer](https://github.com/expressjs/multer)
+- [Sqlite3](https://github.com/sqlite/sqlite)
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Backend getting started
 
@@ -56,9 +60,6 @@ Technologies that I used to develop this api
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
-- [Docker compose](https://docs.docker.com/compose/install)
-
-> Obs.: I recommend use docker
 
 **Clone the project and access the folder**
 
@@ -74,13 +75,10 @@ $ cd backend
 
 ```bash
 # Install the dependencies
-$ yarn
-
-# Create docker environment
-$ sudo docker-compose up -d
+$ npm i
 
 # Run the API
-$ yarn dev
+$ npm run dev
 ```
 
 ## 🤔 How to contribute backend
@@ -116,11 +114,13 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 Technologies that I used to develop this frontend app
 
 - [ReactJS](https://nodejs.org/en)
+- [TypeScript](https://www.typescriptlang.org)
 - [Axios](https://github.com/axios/axios)
 - [React Router v5](https://github.com/ReactTraining/react-router)
 - [React-Icons](http://react-icons.github.io/react-icons/)
-- [React-Toastify](https://github.com/fkhadra/react-toastify)
-- [VS Code](https://code.visualstudio.com)
+- [React-Dropzone](https://github.com/react-dropzone/react-dropzone)
+- [React-Leaflet](https://react-leaflet.js.org)
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Frontend getting started
 
@@ -143,10 +143,10 @@ $ cd web
 
 ```bash
 # Install the dependencies
-$ yarn
+$ npm i
 
 # Run the API
-$ yarn start
+$ npm start
 ```
 
 ## 🤔 How to contribute frontend
@@ -174,6 +174,75 @@ $ git push origin your-feature
 After your pull request is merged, you can delete your branch
 
 ## 📝 Frontend License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/lotofacil-app/blob/master/LICENSE) for more information.
+
+## 🚀 Mobile Technologies
+
+Technologies that I used to develop this frontend app
+
+- [Expo](https://reactjs.org)
+- [Expo-Location](https://docs.expo.io/versions/latest/sdk/location)
+- [Axios](https://github.com/axios/axios)
+- [Expo-Mail-Composer](https://docs.expo.io/versions/latest/sdk/mail-composer)
+- [React-Navigation-Stack](https://github.com/react-navigation)
+- [React-Native-Maps](https://github.com/react-native-community/react-native-maps)
+- [React-Native-SVG](https://github.com/react-native-community/react-native-svg)
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+
+## 💻 Mobile getting started
+
+### Requirements
+
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Expo](https://expo.io/learn)
+
+**Clone the project and access the folder**
+
+```bash
+$ git clone https://github.com/eltonlazzarin/ecoleta.git
+
+$ cd ecoleta
+
+$ cd mobile
+```
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Run the API
+$ yarn start
+```
+
+## 🤔 How to contribute frontend
+
+**Follow the steps below**
+
+```bash
+# Clone your fork
+$ git clone https://github.com/eltonlazzarin/ecoleta.git
+
+$ cd ecoleta
+
+$ cd mobile
+
+# Create a branch with your feature
+$ git checkout -b your-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: Your new feature'
+
+# Send the code to your remote branch
+$ git push origin your-feature
+```
+
+After your pull request is merged, you can delete your branch
+
+## 📝 Mobile License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/lotofacil-app/blob/master/LICENSE) for more information.
 
