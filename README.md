@@ -52,10 +52,6 @@ This is a project developed during the #NextLevelWeek. An online programming eve
 
 ## 🚀 Backend Technologies
 
-<h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/ecoleta.gif" />
-</h1>
-
 Technologies that I used to develop this api
 
 - [Node.js](https://nodejs.org/en)
@@ -124,6 +120,10 @@ After your pull request is merged, you can delete your branch
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
+
+<h1 align="center">
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/ecoleta.gif" />
+</h1>
 
 Technologies that I used to develop this frontend app
 
@@ -197,7 +197,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 	<img alt="Mobile App Screenshots" src="https://github.com/eltonlazzarin/ecoleta/blob/master/mobile/screenshots/mobile.gif" hight="380" width="350" />
 </h1>
 
-Technologies that I used to develop this frontend app
+Technologies that I used to develop this mobile app
 
 - [Expo](https://reactjs.org)
 - [Expo-Location](https://docs.expo.io/versions/latest/sdk/location)
