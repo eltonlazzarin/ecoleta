@@ -175,7 +175,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Frontend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/lotofacil-app/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta/blob/master/LICENSE) for more information.
 
 ## 🚀 Mobile Technologies
 
@@ -244,7 +244,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Mobile License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/lotofacil-app/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta/blob/master/LICENSE) for more information.
 
 ---
 
