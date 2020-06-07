@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
 	<img alt="Logo" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/nlw1.svg" />
 </h1>
 
