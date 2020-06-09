@@ -17,7 +17,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/ecoleta">
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/ecoleta-starter">
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/ecoleta">
 </p>
 
 <p align="center">
